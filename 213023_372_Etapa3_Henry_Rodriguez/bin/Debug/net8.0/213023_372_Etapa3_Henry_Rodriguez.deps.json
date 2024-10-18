@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "213023_372_Etapa3_Henry_Rodriguez/1.0.0": {
+        "runtime": {
+          "213023_372_Etapa3_Henry_Rodriguez.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "213023_372_Etapa3_Henry_Rodriguez/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
